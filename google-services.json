@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "88984495601",
+    "project_id": "fir-testing-4476f",
+    "storage_bucket": "fir-testing-4476f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88984495601:android:0cddffaab3913851021050",
+        "android_client_info": {
+          "package_name": "com.morsoftware.snap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88984495601-ognl9ekehftrktl7v66ktjamt5k3n60c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_CNXegPKm2jOZyYTif-ReFJnAiXryAVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88984495601-ognl9ekehftrktl7v66ktjamt5k3n60c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
